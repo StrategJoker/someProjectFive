@@ -1,0 +1,7 @@
+--[[
+ПАРАМЕТРЫ ДЛЯ НОВОГО ЮЗЕРА
+]]--
+GET_STARTED_MONEY = 500; -- Сколько даст денег в начале
+GET_STARTED_SPAWN_X, GET_STARTED_SPAWN_Y, GET_STARTED_SPAWN_Z = -709.925, -152.969, 73.5;
+GET_STARTED_HEALTH = 50;
+GET_STARTED_ARMOUR = 50;
